@@ -11,7 +11,7 @@ executable. It is in the public domain and may be freely redistributed.
 
 # Archive Credits
 
-This archive was originally hosted on the University of Arizona, Computer
+This archive was originally hosted by the University of Arizona, Computer
 Science department. https://www2.cs.arizona.edu/projects/topovista/sdts2dem/
 
 # GDAL Access of SDTS format
