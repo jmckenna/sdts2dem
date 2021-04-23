@@ -1,8 +1,9 @@
 # sdts2dem Historical Archive
 
 The sdts2dem program translates USGS DEM files from SDTS format to 
-"native" format, and was developed by Sol Katz.  It is in the public 
-domain and may be freely redistributed. 
+"native" format, and was developed by Sol Katz.  The archive contains
+the *sdts2dem.c* source as well as the Windows *sdts2dem.exe* 
+executable. It is in the public domain and may be freely redistributed. 
 
 # Archive Date
 
